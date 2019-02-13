@@ -4,7 +4,7 @@
    <groupId>com</groupId>
    <artifactId>uhura-spring1</artifactId> 
    <version>undefined</version> 
-   <packaging>jar</packaging> 
+   <packaging>jar</packaging>  
    <name>uhura-spring1</name>
    <description>uhura-spring1</description>
    <parent>
